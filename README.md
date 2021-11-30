@@ -2,6 +2,8 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+[Trang Hỗ Trợ](https://tvhoang91.github.io/WikiPTC3P11/) của phòng Viễn Thông và Công Nghệ Thông Tin - Công Ty Truyền Tải Điện 3
+
 ### Installation
 
 ```
