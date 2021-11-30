@@ -13,3 +13,5 @@ Liên hệ phòng VNCNTT để được cấp tài khoản
 ## Chức Năng
 
 ![Chức Năng](./hoa-don-chung-tu/chuc-nang.png)
+
+## Cách tra cứu file hóa đơn XML
