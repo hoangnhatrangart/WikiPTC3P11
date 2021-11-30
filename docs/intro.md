@@ -2,34 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Giới Thiệu
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Trang Hỗ trợ người dùng, phòng Viễn Thông và Công Nghệ Thông Tin PTC3
 
-## Getting Started
+## Hỗ trợ cài đặt máy tính
 
-Get started by **creating a new site**.
+Cài đặt kết nối mạng, máy in ...
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Cài đặt các phần mềm cơ bản
 
-## Generate a new site
+## Hỗ trợ phần mềm dùng chung
 
-Generate a new Docusaurus site using the **classic template**:
+Các lỗi thường gặp các phần mềm dùng chung của tập đoàn
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+## Hỗ trợ phần mềm nội bộ
 
-## Start your site
+Các lỗi thường gặp các phần mềm nội bộ công ty PTC3
 
-Run the development server:
+## Giới thiệu một số phần mềm khác
 
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+Giới thiệu chức năng một số phần mềm khác có thể giúp hỗ trợ cho công việc.

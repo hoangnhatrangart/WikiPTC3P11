@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki - PTC3 P11',
+  title: 'Wiki - Phòng VTCNTT - PTC3',
   tagline: 'Trang Wiki Phòng VTCNTT',
 
   url: 'https://tvhoang91.github.io', // Your website URL
@@ -26,12 +26,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/tvhoang91/WikiPTC3P11/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+          editUrl: 'https://github.com/tvhoang91/WikiPTC3P11/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,10 +43,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      hideableSidebar: true,
       navbar: {
-        title: 'My Site',
+        title: 'Wiki Phòng VTCNTT',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Wiki Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -54,11 +55,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Hỗ Trợ',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/tvhoang91/WikiPTC3P11',
             label: 'GitHub',
             position: 'right',
           },
@@ -68,7 +69,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Hỗ Trợ',
             items: [
               {
                 label: 'Tutorial',
@@ -102,12 +103,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/tvhoang91/WikiPTC3P11',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PTC3 - Phòng VTCNTT. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
