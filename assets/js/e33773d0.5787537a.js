@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_ptc_3_p_11=self.webpackChunkwiki_ptc_3_p_11||[]).push([[827],{3601:function(s){s.exports=JSON.parse('{"allTagsPath":"/WikiPTC3P11/blog/tags","slug":"/WikiPTC3P11/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/WikiPTC3P11/blog/tags/docusaurus"}')}}]);

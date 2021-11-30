@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_ptc_3_p_11=self.webpackChunkwiki_ptc_3_p_11||[]).push([[351],{8327:function(l){l.exports=JSON.parse('{"allTagsPath":"/WikiPTC3P11/blog/tags","slug":"/WikiPTC3P11/blog/tags/hello","name":"hello","count":2,"permalink":"/WikiPTC3P11/blog/tags/hello"}')}}]);

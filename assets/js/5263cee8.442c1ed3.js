@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_ptc_3_p_11=self.webpackChunkwiki_ptc_3_p_11||[]).push([[832],{9019:function(e){e.exports=JSON.parse('{"permalink":"/WikiPTC3P11/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
