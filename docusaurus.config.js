@@ -13,7 +13,6 @@ const config = {
   baseUrl: '/WikiPTC3P11/',
   projectName: 'WikiPTC3P11',
   organizationName: 'tvhoang91',
-  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
